@@ -34,7 +34,7 @@
 	
 	
 		What is the purpose of the sleep() method in Java?
-	✅ Simple Explanation:
+	Simple Explanation:
 	
 	The sleep() method is used to pause the execution of the current thread for 
 	a specific time (in milliseconds or nanoseconds).
